@@ -20,3 +20,34 @@
 .container{
     margin-bottom: 100px;
 }
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: rgb(201, 38, 23);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat3{
+    background-color: rgb(80, 80, 181);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#contact{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
